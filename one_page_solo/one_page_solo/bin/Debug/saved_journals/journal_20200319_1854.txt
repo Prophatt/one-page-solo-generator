@@ -1,0 +1,7 @@
+﻿Generating a Dungeon
+     A Dungeon Room
+          Location:A location for a specialized purpose
+          Encounter:None
+          Object:An interesting item or clue
+          Special:Nothing special
+          Exits:3 exits

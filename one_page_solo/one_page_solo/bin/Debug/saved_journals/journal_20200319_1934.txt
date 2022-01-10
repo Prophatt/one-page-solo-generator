@@ -1,0 +1,7 @@
+﻿Generating a Dungeon
+     A Dungeon Room
+          Location:A location for a specialized purpose, you find the specific goal/element you seek if there is one
+          Encounter:A unique NPC or adversary, you find the specific goal/element you seek if there is one
+          Object:A useful tool, key, or device
+          Special:Nothing special
+          Exits:3 exits

@@ -1,0 +1,7 @@
+﻿Generating a Dungeon
+     A Dungeon Room
+          Location:A living area or meeting place
+          Encounter:Hostile enemies
+          Object:A rare or special item, you find the specific goal/element you seek if there is one
+          Special:There’s a secret hidden here
+          Exits:3 exits

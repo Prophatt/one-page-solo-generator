@@ -1,0 +1,7 @@
+﻿Generating a Dungeon
+     A Dungeon Room
+          Location:A working or utility area
+          Encounter:Hostile enemies
+          Object:A valuable treasure
+          Special:Nothing special
+          Exits:3 exits
